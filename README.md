@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi my name is Rithvik Muthyalapati. I am a software engineer currently studying my bachelors at PES University.
+Hi my name is Rithvik Muthyalapati. I am a software engineer currently studying at PES University.
 
 
 ## 🌐 Socials:
