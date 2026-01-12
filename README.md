@@ -2,7 +2,7 @@
 My name is Rithvik Muthyalapati. I was born and raised in California, USA. I am a passionate Software Engineer with a strong foundation in programming and a keen interest in software engineering, full stack development, object oriented programming, and machine learning. My knowledge is not limited to this field, and I am constantly exploring new technologies and methodologies.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rithvikmuthyalapati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rmuthyalapati@gmail.com) [![Profile](https://img.shields.io/badge/Profile-black)](https://personal-portfolio-dun-zeta-28.vercel.app/)
 
 # 💻 Tech Stack:
@@ -12,7 +12,7 @@ My name is Rithvik Muthyalapati. I was born and raised in California, USA. I am 
 
 #### **Osteoporosis Detector Using Explainable AI**
 This is my capstone project. I created an AI model which can determine the stage of osteoporosis based on hip x-ray scans by classifying its Singh Index and explains the classification to the user. It can be used by people to determine stage of osteoporosis before visiting the doctor and by med students to learn how to classify stages of osteoporosis via Singh Index. It consists of User Interface implementation using Streamlit, so the project is deployable.
-🔗 Repo: https://github.com/Rithvik50/Osteoporosis-Detector-Using-Explainable-AI
+🔗 Repo: ![Repo](https://img.shields.io/badge/github-repo-blue?logo=github)(https://github.com/Rithvik50/Osteoporosis-Detector-Using-Explainable-AI)
 
 #### **Legal AEye-Opener**
 A legal AI advisor which utilizes LLMs and RAG to answer grievances about legal matters according to the BNS legal code.
