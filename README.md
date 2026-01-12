@@ -1,15 +1,17 @@
-# 💫 About Me:
+<h1 align="center">Hi, I am Rithvik Muthyalapati 👋</h1>
+
+## 💫 About Me:
 My name is Rithvik Muthyalapati. I was born and raised in California, USA. I am a passionate Software Engineer with a strong foundation in programming and a keen interest in software engineering, full stack development, object oriented programming, and machine learning. My knowledge is not limited to this field, and I am constantly exploring new technologies and methodologies.
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rithvikmuthyalapati) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rmuthyalapati@gmail.com) 
 [![Profile](https://img.shields.io/badge/Profile-black)](https://personal-portfolio-dun-zeta-28.vercel.app/) 
 [![Phone](https://img.shields.io/badge/Phone-brightgreen)](tel:8951717766) 
 [![Github](https://img.shields.io/badge/Github-8A2BE2?logo=github)](https://github.com/Rithvik50)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ### **Languages**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -56,7 +58,7 @@ My name is Rithvik Muthyalapati. I was born and raised in California, USA. I am 
 ### **Game Development**
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 
-# 🔥 Featured Projects
+## 🔥 Featured Projects
 
 ### **Osteoporosis Detector Using Explainable AI**
 This is my capstone project. I created an AI model which can determine the stage of osteoporosis based on hip x-ray scans by classifying its Singh Index and explains the classification to the user. It can be used by people to determine stage of osteoporosis before visiting the doctor and by med students to learn how to classify stages of osteoporosis via Singh Index. It consists of User Interface implementation using Streamlit, so the project is deployable.<br>
@@ -74,7 +76,7 @@ A vehicle rental system that utilizes JDBC to store rental information on an SQL
 Created a GUI calculator interface using Java. Handles complex operations and applies PEMDAS. Utilizes data structures like arrays and stacks.<br>
 🔗 Repo: [![](https://img.shields.io/badge/Calculator-8A2BE2?logo=github)](https://github.com/Rithvik50/Calculator)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rithvik50&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Rithvik50&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rithvik50&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
