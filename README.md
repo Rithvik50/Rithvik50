@@ -8,7 +8,7 @@ My name is Rithvik Muthyalapati. I was born and raised in California, USA. I am 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rithvikmuthyalapati) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rmuthyalapati@gmail.com) 
 [![Profile](https://img.shields.io/badge/Profile-black)](https://personal-portfolio-dun-zeta-28.vercel.app/) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/918951717766)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-brightgreen?logo=whatsapp)](https://wa.me/918951717766)
 [![Github](https://img.shields.io/badge/Github-8A2BE2?logo=github)](https://github.com/Rithvik50)
 
 ## 💻 Tech Stack:
