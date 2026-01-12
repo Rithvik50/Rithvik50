@@ -12,7 +12,7 @@ My name is Rithvik Muthyalapati. I was born and raised in California, USA. I am 
 
 #### **Osteoporosis Detector Using Explainable AI**
 This is my capstone project. I created an AI model which can determine the stage of osteoporosis based on hip x-ray scans by classifying its Singh Index and explains the classification to the user. It can be used by people to determine stage of osteoporosis before visiting the doctor and by med students to learn how to classify stages of osteoporosis via Singh Index. It consists of User Interface implementation using Streamlit, so the project is deployable.
-🔗 Repo: ![Repo](https://img.shields.io/badge/github-repo-blue?logo=github)(https://github.com/Rithvik50/Osteoporosis-Detector-Using-Explainable-AI)
+🔗 Repo: [![Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Rithvik50/Osteoporosis-Detector-Using-Explainable-AI)
 
 #### **Legal AEye-Opener**
 A legal AI advisor which utilizes LLMs and RAG to answer grievances about legal matters according to the BNS legal code.
