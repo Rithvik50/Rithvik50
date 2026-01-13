@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Rithvik Muthyalapati 👋</h1>
 
 ## 💫 About Me:
-My name is Rithvik Muthyalapati. I was born and raised in California, USA. I am a passionate Software Engineer with a strong foundation in programming and a keen interest in software engineering, full stack development, object oriented programming, and machine learning. My knowledge is not limited to this field, and I am constantly exploring new technologies and methodologies.
+My name is Rithvik Muthyalapati. I was born and raised in California, USA but now I currently reside in Bengaluru, India. I am a passionate Software Engineer with a strong foundation in programming and a keen interest in software engineering, full stack development, object oriented programming, and machine learning. My knowledge is not limited to this field, and I am constantly exploring new technologies and methodologies.
 
 
 ## 🌐 Socials:
