@@ -78,7 +78,3 @@ A vehicle rental system that utilizes JDBC to store rental information on an SQL
 Created a GUI calculator interface using Java. Handles complex operations and applies PEMDAS. Utilizes data structures like arrays and stacks.<br>
 [![](https://img.shields.io/badge/Repo-Calculator-8A2BE2?logo=github)](https://github.com/Rithvik50/Calculator)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rithvik50&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rithvik50&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rithvik50&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
