@@ -10,7 +10,7 @@ My name is Rithvik Muthyalapati. I was born and raised in California, USA but no
 [![Profile](https://img.shields.io/badge/Profile-brightgreen)](https://personal-portfolio-dun-zeta-28.vercel.app/) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-black?logo=whatsapp)](https://wa.me/918951717766)
 [![Github](https://img.shields.io/badge/Github-8A2BE2?logo=github)](https://github.com/Rithvik50)
-[![Resume](./Rithvik_Muthyalapati_Resume.pdf)]
+[![Resume](https://www.flaticon.com/free-icons/github)](./Rithvik_Muthyalapati_Resume.pdf)
 
 ## 💻 Tech Stack:
 
