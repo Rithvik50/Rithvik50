@@ -10,6 +10,7 @@ My name is Rithvik Muthyalapati. I was born and raised in California, USA but no
 [![Profile](https://img.shields.io/badge/Profile-brightgreen)](https://personal-portfolio-dun-zeta-28.vercel.app/) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-black?logo=whatsapp)](https://wa.me/918951717766)
 [![Github](https://img.shields.io/badge/Github-8A2BE2?logo=github)](https://github.com/Rithvik50)
+[![Resume](./Rithvik_Muthyalapati_Resume.pdf)]
 
 ## 💻 Tech Stack:
 
@@ -39,6 +40,7 @@ My name is Rithvik Muthyalapati. I was born and raised in California, USA but no
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 ### **Machine Learning**
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
